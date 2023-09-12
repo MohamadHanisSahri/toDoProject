@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\ToDoListWebApp\\ToDoListWebApp.csproj": {}
+    "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\toDoProject\\ToDoListWebApp\\ToDoListWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\ToDoListWebApp\\ToDoListWebApp.csproj": {
+    "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\toDoProject\\ToDoListWebApp\\ToDoListWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\ToDoListWebApp\\ToDoListWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\toDoProject\\ToDoListWebApp\\ToDoListWebApp.csproj",
         "projectName": "ToDoListWebApp",
-        "projectPath": "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\ToDoListWebApp\\ToDoListWebApp.csproj",
+        "projectPath": "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\toDoProject\\ToDoListWebApp\\ToDoListWebApp.csproj",
         "packagesPath": "C:\\Users\\m.bin.mohd.sahri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\ToDoListWebApp\\obj\\",
+        "outputPath": "C:\\Users\\m.bin.mohd.sahri\\Documents\\ToDoListWebApp\\toDoProject\\ToDoListWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.bin.mohd.sahri\\AppData\\Roaming\\NuGet\\NuGet.Config",
